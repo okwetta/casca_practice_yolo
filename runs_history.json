@@ -1,0 +1,32 @@
+[
+  {
+    "start_time": "2026-07-05T23:23:45.415217",
+    "video_source": "C:/Users/User/Downloads/Process_of_Constructing_a_Concrete_Modular_House_in_Just_2_Weeks.mp4",
+    "model_path": "C:/Users/User/runs/detect/person_helmet_detector-3/weights/best.pt",
+    "conf_threshold": 0.5,
+    "iou_threshold": 0.45,
+    "device": "cuda",
+    "total_frames": 108405,
+    "total_people": 538,
+    "total_violations": 128,
+    "avg_fps": 16.951378475874538,
+    "duration_sec": 6395.055136919022,
+    "end_time": "2026-07-06T01:10:20.590666"
+  },
+  {
+    "start_time": "2026-07-06T01:17:30.275376",
+    "video_source": "C:/Users/User/Downloads/Process_of_Constructing_a_Concrete_Modular_House_in_Just_2_Weeks.mp4",
+    "model_path": "C:/Users/User/runs/detect/person_helmet_detector-3/weights/best.pt",
+    "conf_threshold": 0.5,
+    "iou_threshold": 0.45,
+    "device": "cuda",
+    "total_frames": 108405,
+    "total_people": 18,
+    "total_violations": 17,
+    "avg_fps": 4.695928458862433,
+    "duration_sec": 769.3899154663086,
+    "process_every_n_frames": 30,
+    "end_time": "2026-07-06T01:30:19.686907",
+    "processed_frames": 3613
+  }
+]

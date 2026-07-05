@@ -1,0 +1,1887 @@
+[
+  {
+    "timestamp": "20260705_232607_281178",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_232607_281178_id33.jpg",
+    "confidence": 0.6562733054161072,
+    "bbox": [
+      1146.2125244140625,
+      110.8021469116211,
+      1279.3616943359375,
+      244.49717712402344
+    ],
+    "track_id": 33,
+    "frame_number": 2561
+  },
+  {
+    "timestamp": "20260705_232756_586928",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_232756_586928_idNone.jpg",
+    "confidence": 0.54183429479599,
+    "bbox": [
+      1162.7891845703125,
+      119.19914245605469,
+      1206.836669921875,
+      173.67276000976562
+    ],
+    "track_id": null,
+    "frame_number": 4431
+  },
+  {
+    "timestamp": "20260705_234553_060726",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_234553_060726_id379.jpg",
+    "confidence": 0.507390558719635,
+    "bbox": [
+      1080.4267578125,
+      206.93045043945312,
+      1125.022216796875,
+      256.3029479980469
+    ],
+    "track_id": 379,
+    "frame_number": 24611
+  },
+  {
+    "timestamp": "20260705_234609_876091",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_234609_876091_idNone.jpg",
+    "confidence": 0.5834903120994568,
+    "bbox": [
+      727.859619140625,
+      613.9592895507812,
+      774.4048461914062,
+      665.5967407226562
+    ],
+    "track_id": null,
+    "frame_number": 24876
+  },
+  {
+    "timestamp": "20260705_234609_949240",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_234609_949240_idNone.jpg",
+    "confidence": 0.558452308177948,
+    "bbox": [
+      727.8358154296875,
+      613.9103393554688,
+      774.2599487304688,
+      665.3289794921875
+    ],
+    "track_id": null,
+    "frame_number": 24877
+  },
+  {
+    "timestamp": "20260705_234621_018670",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_234621_018670_idNone.jpg",
+    "confidence": 0.5046393871307373,
+    "bbox": [
+      579.480224609375,
+      549.7245483398438,
+      626.8378295898438,
+      601.0802612304688
+    ],
+    "track_id": null,
+    "frame_number": 25041
+  },
+  {
+    "timestamp": "20260705_234621_117913",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_234621_117913_idNone.jpg",
+    "confidence": 0.632243812084198,
+    "bbox": [
+      747.4368896484375,
+      595.6723022460938,
+      793.2338256835938,
+      648.9193725585938
+    ],
+    "track_id": null,
+    "frame_number": 25042
+  },
+  {
+    "timestamp": "20260705_234621_201118",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_234621_201118_idNone.jpg",
+    "confidence": 0.6576408743858337,
+    "bbox": [
+      747.5760498046875,
+      596.421875,
+      793.2338256835938,
+      649.0828247070312
+    ],
+    "track_id": null,
+    "frame_number": 25043
+  },
+  {
+    "timestamp": "20260705_234644_237211",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_234644_237211_idNone.jpg",
+    "confidence": 0.505154550075531,
+    "bbox": [
+      1116.223388671875,
+      267.8565673828125,
+      1278.173583984375,
+      413.4730529785156
+    ],
+    "track_id": null,
+    "frame_number": 25541
+  },
+  {
+    "timestamp": "20260705_234644_332149",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_234644_332149_idNone.jpg",
+    "confidence": 0.6999402642250061,
+    "bbox": [
+      1107.6263427734375,
+      270.05096435546875,
+      1280.0,
+      409.3291015625
+    ],
+    "track_id": null,
+    "frame_number": 25542
+  },
+  {
+    "timestamp": "20260705_234644_421824",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_234644_421824_idNone.jpg",
+    "confidence": 0.73344886302948,
+    "bbox": [
+      1101.474853515625,
+      215.99156188964844,
+      1280.0,
+      411.55718994140625
+    ],
+    "track_id": null,
+    "frame_number": 25543
+  },
+  {
+    "timestamp": "20260705_234644_498944",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_234644_498944_idNone.jpg",
+    "confidence": 0.7404585480690002,
+    "bbox": [
+      1100.3863525390625,
+      215.91961669921875,
+      1279.8919677734375,
+      410.0760192871094
+    ],
+    "track_id": null,
+    "frame_number": 25544
+  },
+  {
+    "timestamp": "20260705_234644_560228",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_234644_560228_id418.jpg",
+    "confidence": 0.7294908761978149,
+    "bbox": [
+      1094.239990234375,
+      217.17100524902344,
+      1279.9478759765625,
+      410.0406799316406
+    ],
+    "track_id": 418,
+    "frame_number": 25545
+  },
+  {
+    "timestamp": "20260705_234652_819438",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_234652_819438_id419.jpg",
+    "confidence": 0.5029014945030212,
+    "bbox": [
+      733.2421875,
+      245.49835205078125,
+      801.8701782226562,
+      312.6207580566406
+    ],
+    "track_id": 419,
+    "frame_number": 25716
+  },
+  {
+    "timestamp": "20260705_235353_549187",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235353_549187_idNone.jpg",
+    "confidence": 0.6344119310379028,
+    "bbox": [
+      320.44586181640625,
+      593.1127319335938,
+      366.1309814453125,
+      639.3916625976562
+    ],
+    "track_id": null,
+    "frame_number": 33381
+  },
+  {
+    "timestamp": "20260705_235619_832684",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235619_832684_idNone.jpg",
+    "confidence": 0.5071134567260742,
+    "bbox": [
+      864.859619140625,
+      283.6834411621094,
+      890.4522094726562,
+      313.3286437988281
+    ],
+    "track_id": null,
+    "frame_number": 35989
+  },
+  {
+    "timestamp": "20260705_235622_240955",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235622_240955_idNone.jpg",
+    "confidence": 0.5611957907676697,
+    "bbox": [
+      756.6525268554688,
+      313.82525634765625,
+      789.129150390625,
+      346.56939697265625
+    ],
+    "track_id": null,
+    "frame_number": 36025
+  },
+  {
+    "timestamp": "20260705_235622_322149",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235622_322149_idNone.jpg",
+    "confidence": 0.6046980023384094,
+    "bbox": [
+      708.740966796875,
+      315.23956298828125,
+      739.0236206054688,
+      348.5130310058594
+    ],
+    "track_id": null,
+    "frame_number": 36026
+  },
+  {
+    "timestamp": "20260705_235848_977680",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235848_977680_idNone.jpg",
+    "confidence": 0.5597500205039978,
+    "bbox": [
+      704.7177124023438,
+      352.8895568847656,
+      744.6056518554688,
+      394.11224365234375
+    ],
+    "track_id": null,
+    "frame_number": 38764
+  },
+  {
+    "timestamp": "20260705_235857_279383",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235857_279383_idNone.jpg",
+    "confidence": 0.5733433961868286,
+    "bbox": [
+      203.321533203125,
+      599.0122680664062,
+      254.82090759277344,
+      661.4297485351562
+    ],
+    "track_id": null,
+    "frame_number": 38873
+  },
+  {
+    "timestamp": "20260705_235857_363619",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235857_363619_idNone.jpg",
+    "confidence": 0.6496068239212036,
+    "bbox": [
+      201.47242736816406,
+      599.3071899414062,
+      252.5212860107422,
+      661.8690185546875
+    ],
+    "track_id": null,
+    "frame_number": 38874
+  },
+  {
+    "timestamp": "20260705_235857_454834",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235857_454834_idNone.jpg",
+    "confidence": 0.6384069919586182,
+    "bbox": [
+      199.94837951660156,
+      599.9887084960938,
+      252.0122528076172,
+      660.802001953125
+    ],
+    "track_id": null,
+    "frame_number": 38875
+  },
+  {
+    "timestamp": "20260705_235857_539103",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235857_539103_idNone.jpg",
+    "confidence": 0.5595528483390808,
+    "bbox": [
+      198.61666870117188,
+      601.4365234375,
+      249.453369140625,
+      661.234130859375
+    ],
+    "track_id": null,
+    "frame_number": 38876
+  },
+  {
+    "timestamp": "20260705_235857_632387",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235857_632387_idNone.jpg",
+    "confidence": 0.5315777063369751,
+    "bbox": [
+      197.13636779785156,
+      600.319580078125,
+      248.5046844482422,
+      661.8240966796875
+    ],
+    "track_id": null,
+    "frame_number": 38877
+  },
+  {
+    "timestamp": "20260705_235857_796238",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235857_796238_idNone.jpg",
+    "confidence": 0.535342276096344,
+    "bbox": [
+      193.69036865234375,
+      599.41015625,
+      246.93028259277344,
+      661.3211059570312
+    ],
+    "track_id": null,
+    "frame_number": 38879
+  },
+  {
+    "timestamp": "20260705_235858_893711",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235858_893711_idNone.jpg",
+    "confidence": 0.5353013277053833,
+    "bbox": [
+      189.1125030517578,
+      591.2033081054688,
+      236.00494384765625,
+      652.4236450195312
+    ],
+    "track_id": null,
+    "frame_number": 38894
+  },
+  {
+    "timestamp": "20260705_235858_993035",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235858_993035_idNone.jpg",
+    "confidence": 0.5419485569000244,
+    "bbox": [
+      189.64181518554688,
+      590.951416015625,
+      236.6265869140625,
+      651.285888671875
+    ],
+    "track_id": null,
+    "frame_number": 38895
+  },
+  {
+    "timestamp": "20260705_235859_103950",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235859_103950_idNone.jpg",
+    "confidence": 0.5878888368606567,
+    "bbox": [
+      189.998779296875,
+      590.4396362304688,
+      236.7833709716797,
+      649.10009765625
+    ],
+    "track_id": null,
+    "frame_number": 38896
+  },
+  {
+    "timestamp": "20260705_235859_199725",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235859_199725_idNone.jpg",
+    "confidence": 0.5482252240180969,
+    "bbox": [
+      191.3041534423828,
+      590.8605346679688,
+      237.46604919433594,
+      649.4024658203125
+    ],
+    "track_id": null,
+    "frame_number": 38897
+  },
+  {
+    "timestamp": "20260705_235859_279308",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235859_279308_idNone.jpg",
+    "confidence": 0.5380775928497314,
+    "bbox": [
+      191.9244842529297,
+      590.489013671875,
+      238.6327362060547,
+      648.6761474609375
+    ],
+    "track_id": null,
+    "frame_number": 38898
+  },
+  {
+    "timestamp": "20260705_235859_432744",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235859_432744_idNone.jpg",
+    "confidence": 0.5962724685668945,
+    "bbox": [
+      192.29287719726562,
+      588.4907836914062,
+      240.15338134765625,
+      648.4203491210938
+    ],
+    "track_id": null,
+    "frame_number": 38900
+  },
+  {
+    "timestamp": "20260705_235859_526966",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235859_526966_idNone.jpg",
+    "confidence": 0.6259419918060303,
+    "bbox": [
+      192.94639587402344,
+      588.0315551757812,
+      241.0948944091797,
+      647.2041015625
+    ],
+    "track_id": null,
+    "frame_number": 38901
+  },
+  {
+    "timestamp": "20260705_235859_628289",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235859_628289_idNone.jpg",
+    "confidence": 0.6603291630744934,
+    "bbox": [
+      193.7583770751953,
+      587.4368286132812,
+      242.92367553710938,
+      647.1580200195312
+    ],
+    "track_id": null,
+    "frame_number": 38902
+  },
+  {
+    "timestamp": "20260705_235859_714518",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235859_714518_idNone.jpg",
+    "confidence": 0.6592766046524048,
+    "bbox": [
+      194.7952117919922,
+      586.6702880859375,
+      243.6855010986328,
+      646.456298828125
+    ],
+    "track_id": null,
+    "frame_number": 38903
+  },
+  {
+    "timestamp": "20260705_235859_812258",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235859_812258_idNone.jpg",
+    "confidence": 0.6261732578277588,
+    "bbox": [
+      195.43482971191406,
+      586.90869140625,
+      244.14207458496094,
+      646.2045288085938
+    ],
+    "track_id": null,
+    "frame_number": 38904
+  },
+  {
+    "timestamp": "20260705_235900_117615",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235900_117615_idNone.jpg",
+    "confidence": 0.631327748298645,
+    "bbox": [
+      200.62290954589844,
+      585.4981689453125,
+      248.91751098632812,
+      644.6244506835938
+    ],
+    "track_id": null,
+    "frame_number": 38908
+  },
+  {
+    "timestamp": "20260705_235900_206834",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235900_206834_idNone.jpg",
+    "confidence": 0.5836411714553833,
+    "bbox": [
+      202.1936798095703,
+      584.904541015625,
+      249.89810180664062,
+      644.2099609375
+    ],
+    "track_id": null,
+    "frame_number": 38909
+  },
+  {
+    "timestamp": "20260705_235900_290544",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235900_290544_idNone.jpg",
+    "confidence": 0.5798346996307373,
+    "bbox": [
+      203.69119262695312,
+      585.5388793945312,
+      252.64845275878906,
+      643.8466186523438
+    ],
+    "track_id": null,
+    "frame_number": 38910
+  },
+  {
+    "timestamp": "20260705_235900_376221",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235900_376221_idNone.jpg",
+    "confidence": 0.65184086561203,
+    "bbox": [
+      205.67637634277344,
+      584.3230590820312,
+      253.66650390625,
+      644.224853515625
+    ],
+    "track_id": null,
+    "frame_number": 38911
+  },
+  {
+    "timestamp": "20260705_235900_457085",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235900_457085_idNone.jpg",
+    "confidence": 0.6688090562820435,
+    "bbox": [
+      206.61090087890625,
+      585.0253295898438,
+      255.45620727539062,
+      643.6331787109375
+    ],
+    "track_id": null,
+    "frame_number": 38912
+  },
+  {
+    "timestamp": "20260705_235900_548249",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235900_548249_idNone.jpg",
+    "confidence": 0.61921226978302,
+    "bbox": [
+      207.69656372070312,
+      585.5951538085938,
+      256.11212158203125,
+      645.1549072265625
+    ],
+    "track_id": null,
+    "frame_number": 38913
+  },
+  {
+    "timestamp": "20260705_235900_665009",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235900_665009_idNone.jpg",
+    "confidence": 0.6814649701118469,
+    "bbox": [
+      208.93666076660156,
+      585.6303100585938,
+      257.339111328125,
+      644.2410888671875
+    ],
+    "track_id": null,
+    "frame_number": 38914
+  },
+  {
+    "timestamp": "20260705_235900_746713",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235900_746713_idNone.jpg",
+    "confidence": 0.6362895369529724,
+    "bbox": [
+      211.3121337890625,
+      585.4143676757812,
+      258.45550537109375,
+      644.7709350585938
+    ],
+    "track_id": null,
+    "frame_number": 38915
+  },
+  {
+    "timestamp": "20260705_235900_832434",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235900_832434_idNone.jpg",
+    "confidence": 0.5766457915306091,
+    "bbox": [
+      213.5765838623047,
+      585.2567138671875,
+      259.66046142578125,
+      645.064453125
+    ],
+    "track_id": null,
+    "frame_number": 38916
+  },
+  {
+    "timestamp": "20260705_235900_914077",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235900_914077_idNone.jpg",
+    "confidence": 0.6144023537635803,
+    "bbox": [
+      215.4376678466797,
+      585.2333374023438,
+      263.46630859375,
+      645.4168701171875
+    ],
+    "track_id": null,
+    "frame_number": 38917
+  },
+  {
+    "timestamp": "20260705_235901_012307",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235901_012307_idNone.jpg",
+    "confidence": 0.5934137105941772,
+    "bbox": [
+      217.65562438964844,
+      584.9717407226562,
+      265.55120849609375,
+      643.3975830078125
+    ],
+    "track_id": null,
+    "frame_number": 38918
+  },
+  {
+    "timestamp": "20260705_235901_090471",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235901_090471_idNone.jpg",
+    "confidence": 0.5743497610092163,
+    "bbox": [
+      218.2238006591797,
+      585.1730346679688,
+      267.11468505859375,
+      644.6207275390625
+    ],
+    "track_id": null,
+    "frame_number": 38919
+  },
+  {
+    "timestamp": "20260705_235901_172722",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235901_172722_idNone.jpg",
+    "confidence": 0.6645885109901428,
+    "bbox": [
+      219.91477966308594,
+      585.28173828125,
+      269.8349914550781,
+      644.772705078125
+    ],
+    "track_id": null,
+    "frame_number": 38920
+  },
+  {
+    "timestamp": "20260705_235901_257346",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235901_257346_idNone.jpg",
+    "confidence": 0.5100769400596619,
+    "bbox": [
+      222.69378662109375,
+      585.5859375,
+      271.2162170410156,
+      643.4734497070312
+    ],
+    "track_id": null,
+    "frame_number": 38921
+  },
+  {
+    "timestamp": "20260705_235901_397197",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235901_397197_idNone.jpg",
+    "confidence": 0.6271710395812988,
+    "bbox": [
+      229.78439331054688,
+      585.0951538085938,
+      276.4906311035156,
+      641.6871337890625
+    ],
+    "track_id": null,
+    "frame_number": 38923
+  },
+  {
+    "timestamp": "20260705_235901_484395",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235901_484395_idNone.jpg",
+    "confidence": 0.5428423285484314,
+    "bbox": [
+      231.4403533935547,
+      585.3704833984375,
+      277.9275207519531,
+      644.1973876953125
+    ],
+    "track_id": null,
+    "frame_number": 38924
+  },
+  {
+    "timestamp": "20260705_235901_579145",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235901_579145_idNone.jpg",
+    "confidence": 0.6255598664283752,
+    "bbox": [
+      232.080810546875,
+      585.8707275390625,
+      280.39715576171875,
+      645.3692016601562
+    ],
+    "track_id": null,
+    "frame_number": 38925
+  },
+  {
+    "timestamp": "20260705_235901_654792",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235901_654792_idNone.jpg",
+    "confidence": 0.5082154273986816,
+    "bbox": [
+      235.60159301757812,
+      585.3773193359375,
+      281.4025573730469,
+      643.598388671875
+    ],
+    "track_id": null,
+    "frame_number": 38926
+  },
+  {
+    "timestamp": "20260705_235901_749450",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235901_749450_idNone.jpg",
+    "confidence": 0.539131224155426,
+    "bbox": [
+      238.05966186523438,
+      585.466552734375,
+      284.2335510253906,
+      642.8756713867188
+    ],
+    "track_id": null,
+    "frame_number": 38927
+  },
+  {
+    "timestamp": "20260705_235901_829623",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235901_829623_idNone.jpg",
+    "confidence": 0.6407991647720337,
+    "bbox": [
+      240.3160400390625,
+      584.7537231445312,
+      287.40789794921875,
+      642.0594482421875
+    ],
+    "track_id": null,
+    "frame_number": 38928
+  },
+  {
+    "timestamp": "20260705_235901_935366",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235901_935366_idNone.jpg",
+    "confidence": 0.5588431358337402,
+    "bbox": [
+      242.32940673828125,
+      584.8174438476562,
+      288.337890625,
+      642.6529541015625
+    ],
+    "track_id": null,
+    "frame_number": 38929
+  },
+  {
+    "timestamp": "20260705_235902_019512",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235902_019512_idNone.jpg",
+    "confidence": 0.622960090637207,
+    "bbox": [
+      243.16293334960938,
+      583.7905883789062,
+      291.3211669921875,
+      644.1492919921875
+    ],
+    "track_id": null,
+    "frame_number": 38930
+  },
+  {
+    "timestamp": "20260705_235902_163833",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235902_163833_idNone.jpg",
+    "confidence": 0.5827389359474182,
+    "bbox": [
+      248.54095458984375,
+      584.0358276367188,
+      293.7851867675781,
+      642.3528442382812
+    ],
+    "track_id": null,
+    "frame_number": 38932
+  },
+  {
+    "timestamp": "20260705_235902_248957",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235902_248957_idNone.jpg",
+    "confidence": 0.6742574572563171,
+    "bbox": [
+      250.33700561523438,
+      583.4266967773438,
+      295.5430908203125,
+      640.9755249023438
+    ],
+    "track_id": null,
+    "frame_number": 38933
+  },
+  {
+    "timestamp": "20260705_235902_350692",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235902_350692_idNone.jpg",
+    "confidence": 0.7112570405006409,
+    "bbox": [
+      251.79473876953125,
+      582.55810546875,
+      298.319580078125,
+      641.1747436523438
+    ],
+    "track_id": null,
+    "frame_number": 38934
+  },
+  {
+    "timestamp": "20260705_235902_445415",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235902_445415_idNone.jpg",
+    "confidence": 0.7138221263885498,
+    "bbox": [
+      252.41134643554688,
+      581.9987182617188,
+      299.00164794921875,
+      640.3123779296875
+    ],
+    "track_id": null,
+    "frame_number": 38935
+  },
+  {
+    "timestamp": "20260705_235902_498997",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260705_235902_498997_id1285.jpg",
+    "confidence": 0.6975563764572144,
+    "bbox": [
+      253.3665771484375,
+      581.4295043945312,
+      300.42578125,
+      640.7318115234375
+    ],
+    "track_id": 1285,
+    "frame_number": 38936
+  },
+  {
+    "timestamp": "20260706_000046_634426",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_000046_634426_idNone.jpg",
+    "confidence": 0.557763934135437,
+    "bbox": [
+      446.0393371582031,
+      411.17572021484375,
+      513.1914672851562,
+      466.8840026855469
+    ],
+    "track_id": null,
+    "frame_number": 40844
+  },
+  {
+    "timestamp": "20260706_000046_846322",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_000046_846322_idNone.jpg",
+    "confidence": 0.5112953186035156,
+    "bbox": [
+      454.7205505371094,
+      411.4567565917969,
+      515.8750610351562,
+      465.08013916015625
+    ],
+    "track_id": null,
+    "frame_number": 40847
+  },
+  {
+    "timestamp": "20260706_000046_920936",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_000046_920936_idNone.jpg",
+    "confidence": 0.6069310903549194,
+    "bbox": [
+      450.57989501953125,
+      409.3238220214844,
+      514.9126586914062,
+      467.1902160644531
+    ],
+    "track_id": null,
+    "frame_number": 40848
+  },
+  {
+    "timestamp": "20260706_000047_008287",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_000047_008287_idNone.jpg",
+    "confidence": 0.5361344218254089,
+    "bbox": [
+      445.6401062011719,
+      409.0239562988281,
+      515.44091796875,
+      469.94140625
+    ],
+    "track_id": null,
+    "frame_number": 40849
+  },
+  {
+    "timestamp": "20260706_000143_930357",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_000143_930357_idNone.jpg",
+    "confidence": 0.5389010906219482,
+    "bbox": [
+      789.49169921875,
+      546.7589721679688,
+      847.4189453125,
+      603.2083129882812
+    ],
+    "track_id": null,
+    "frame_number": 41830
+  },
+  {
+    "timestamp": "20260706_000144_118851",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_000144_118851_idNone.jpg",
+    "confidence": 0.6516549587249756,
+    "bbox": [
+      527.6505126953125,
+      533.8853149414062,
+      585.3861083984375,
+      590.7910766601562
+    ],
+    "track_id": null,
+    "frame_number": 41832
+  },
+  {
+    "timestamp": "20260706_000735_084195",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_000735_084195_idNone.jpg",
+    "confidence": 0.5033406615257263,
+    "bbox": [
+      904.6630249023438,
+      319.1584167480469,
+      933.2323608398438,
+      351.1912536621094
+    ],
+    "track_id": null,
+    "frame_number": 47745
+  },
+  {
+    "timestamp": "20260706_000735_414594",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_000735_414594_idNone.jpg",
+    "confidence": 0.5010006427764893,
+    "bbox": [
+      908.8846435546875,
+      319.62890625,
+      936.3424682617188,
+      351.3410339355469
+    ],
+    "track_id": null,
+    "frame_number": 47749
+  },
+  {
+    "timestamp": "20260706_000735_505719",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_000735_505719_idNone.jpg",
+    "confidence": 0.5041244029998779,
+    "bbox": [
+      908.0008544921875,
+      319.6158752441406,
+      936.0414428710938,
+      351.5185241699219
+    ],
+    "track_id": null,
+    "frame_number": 47750
+  },
+  {
+    "timestamp": "20260706_000810_829970",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_000810_829970_idNone.jpg",
+    "confidence": 0.5005940198898315,
+    "bbox": [
+      320.411865234375,
+      226.14593505859375,
+      343.4098205566406,
+      254.82801818847656
+    ],
+    "track_id": null,
+    "frame_number": 48311
+  },
+  {
+    "timestamp": "20260706_002003_375477",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_002003_375477_id2140.jpg",
+    "confidence": 0.5216116905212402,
+    "bbox": [
+      1002.8692016601562,
+      288.026123046875,
+      1188.8272705078125,
+      496.148681640625
+    ],
+    "track_id": 2140,
+    "frame_number": 58511
+  },
+  {
+    "timestamp": "20260706_002005_254882",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_002005_254882_idNone.jpg",
+    "confidence": 0.5385242700576782,
+    "bbox": [
+      336.8760681152344,
+      527.8765258789062,
+      409.1655578613281,
+      623.8305053710938
+    ],
+    "track_id": null,
+    "frame_number": 58551
+  },
+  {
+    "timestamp": "20260706_002005_343577",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_002005_343577_idNone.jpg",
+    "confidence": 0.5366460680961609,
+    "bbox": [
+      336.8870849609375,
+      527.2880249023438,
+      408.8089904785156,
+      623.8041381835938
+    ],
+    "track_id": null,
+    "frame_number": 58552
+  },
+  {
+    "timestamp": "20260706_003439_404641",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_003439_404641_idNone.jpg",
+    "confidence": 0.5166415572166443,
+    "bbox": [
+      524.1074829101562,
+      215.7347412109375,
+      553.8431396484375,
+      251.80006408691406
+    ],
+    "track_id": null,
+    "frame_number": 72558
+  },
+  {
+    "timestamp": "20260706_003552_273140",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_003552_273140_idNone.jpg",
+    "confidence": 0.5261079668998718,
+    "bbox": [
+      502.07733154296875,
+      250.3587188720703,
+      582.2306518554688,
+      343.4158935546875
+    ],
+    "track_id": null,
+    "frame_number": 73811
+  },
+  {
+    "timestamp": "20260706_003552_368412",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_003552_368412_idNone.jpg",
+    "confidence": 0.5582959651947021,
+    "bbox": [
+      502.4706726074219,
+      251.42393493652344,
+      579.26220703125,
+      344.58538818359375
+    ],
+    "track_id": null,
+    "frame_number": 73812
+  },
+  {
+    "timestamp": "20260706_003552_459651",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_003552_459651_idNone.jpg",
+    "confidence": 0.5760936737060547,
+    "bbox": [
+      502.3682556152344,
+      251.47500610351562,
+      579.5057983398438,
+      345.1524658203125
+    ],
+    "track_id": null,
+    "frame_number": 73813
+  },
+  {
+    "timestamp": "20260706_003552_549889",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_003552_549889_idNone.jpg",
+    "confidence": 0.5415963530540466,
+    "bbox": [
+      502.086181640625,
+      250.69680786132812,
+      582.1238403320312,
+      344.3686828613281
+    ],
+    "track_id": null,
+    "frame_number": 73814
+  },
+  {
+    "timestamp": "20260706_003552_640094",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_003552_640094_idNone.jpg",
+    "confidence": 0.5189107060432434,
+    "bbox": [
+      502.1257019042969,
+      250.65457153320312,
+      582.4087524414062,
+      343.8427734375
+    ],
+    "track_id": null,
+    "frame_number": 73815
+  },
+  {
+    "timestamp": "20260706_004726_340711",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004726_340711_idNone.jpg",
+    "confidence": 0.5107138156890869,
+    "bbox": [
+      230.54055786132812,
+      29.694236755371094,
+      446.4613952636719,
+      269.9297180175781
+    ],
+    "track_id": null,
+    "frame_number": 84578
+  },
+  {
+    "timestamp": "20260706_004726_647159",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004726_647159_idNone.jpg",
+    "confidence": 0.5057512521743774,
+    "bbox": [
+      228.1883087158203,
+      26.74974822998047,
+      445.2259216308594,
+      268.58184814453125
+    ],
+    "track_id": null,
+    "frame_number": 84582
+  },
+  {
+    "timestamp": "20260706_004726_896020",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004726_896020_idNone.jpg",
+    "confidence": 0.5455936789512634,
+    "bbox": [
+      229.37478637695312,
+      26.186479568481445,
+      444.7026062011719,
+      272.87017822265625
+    ],
+    "track_id": null,
+    "frame_number": 84585
+  },
+  {
+    "timestamp": "20260706_004726_997291",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004726_997291_idNone.jpg",
+    "confidence": 0.5575054883956909,
+    "bbox": [
+      229.92776489257812,
+      27.407989501953125,
+      443.6393127441406,
+      274.04718017578125
+    ],
+    "track_id": null,
+    "frame_number": 84586
+  },
+  {
+    "timestamp": "20260706_004727_090559",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004727_090559_idNone.jpg",
+    "confidence": 0.5415513515472412,
+    "bbox": [
+      229.67935180664062,
+      28.209577560424805,
+      443.7055969238281,
+      274.3450927734375
+    ],
+    "track_id": null,
+    "frame_number": 84587
+  },
+  {
+    "timestamp": "20260706_004727_176353",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004727_176353_idNone.jpg",
+    "confidence": 0.5279881954193115,
+    "bbox": [
+      228.30653381347656,
+      23.559221267700195,
+      443.9949035644531,
+      266.7908935546875
+    ],
+    "track_id": null,
+    "frame_number": 84588
+  },
+  {
+    "timestamp": "20260706_004727_271632",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004727_271632_idNone.jpg",
+    "confidence": 0.5220094323158264,
+    "bbox": [
+      226.96197509765625,
+      21.278839111328125,
+      443.6003723144531,
+      266.692626953125
+    ],
+    "track_id": null,
+    "frame_number": 84589
+  },
+  {
+    "timestamp": "20260706_004727_430587",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004727_430587_idNone.jpg",
+    "confidence": 0.5249653458595276,
+    "bbox": [
+      225.41482543945312,
+      22.206050872802734,
+      445.2512512207031,
+      269.2456359863281
+    ],
+    "track_id": null,
+    "frame_number": 84591
+  },
+  {
+    "timestamp": "20260706_004727_530489",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004727_530489_idNone.jpg",
+    "confidence": 0.5545074343681335,
+    "bbox": [
+      224.56207275390625,
+      21.13198471069336,
+      444.523193359375,
+      269.7935485839844
+    ],
+    "track_id": null,
+    "frame_number": 84592
+  },
+  {
+    "timestamp": "20260706_004727_680777",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004727_680777_idNone.jpg",
+    "confidence": 0.5721027255058289,
+    "bbox": [
+      222.6988067626953,
+      22.768903732299805,
+      443.13555908203125,
+      270.68646240234375
+    ],
+    "track_id": null,
+    "frame_number": 84594
+  },
+  {
+    "timestamp": "20260706_004727_767990",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004727_767990_idNone.jpg",
+    "confidence": 0.536369800567627,
+    "bbox": [
+      221.19651794433594,
+      21.873388290405273,
+      442.7257385253906,
+      270.8338623046875
+    ],
+    "track_id": null,
+    "frame_number": 84595
+  },
+  {
+    "timestamp": "20260706_004727_865345",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004727_865345_idNone.jpg",
+    "confidence": 0.5368852615356445,
+    "bbox": [
+      220.87908935546875,
+      20.96721076965332,
+      442.127685546875,
+      272.0326843261719
+    ],
+    "track_id": null,
+    "frame_number": 84596
+  },
+  {
+    "timestamp": "20260706_004727_951497",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004727_951497_idNone.jpg",
+    "confidence": 0.5562881827354431,
+    "bbox": [
+      220.1365966796875,
+      22.506103515625,
+      441.3841857910156,
+      269.8896484375
+    ],
+    "track_id": null,
+    "frame_number": 84597
+  },
+  {
+    "timestamp": "20260706_004728_059198",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004728_059198_idNone.jpg",
+    "confidence": 0.5786598920822144,
+    "bbox": [
+      219.12567138671875,
+      21.744014739990234,
+      440.8775634765625,
+      269.5777587890625
+    ],
+    "track_id": null,
+    "frame_number": 84598
+  },
+  {
+    "timestamp": "20260706_004728_170903",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004728_170903_idNone.jpg",
+    "confidence": 0.5828405022621155,
+    "bbox": [
+      218.2627716064453,
+      20.78896713256836,
+      440.255126953125,
+      270.29296875
+    ],
+    "track_id": null,
+    "frame_number": 84599
+  },
+  {
+    "timestamp": "20260706_004728_274584",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004728_274584_idNone.jpg",
+    "confidence": 0.5919296741485596,
+    "bbox": [
+      217.10610961914062,
+      19.22252082824707,
+      439.0752258300781,
+      270.8052673339844
+    ],
+    "track_id": null,
+    "frame_number": 84600
+  },
+  {
+    "timestamp": "20260706_004728_358208",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004728_358208_idNone.jpg",
+    "confidence": 0.5822325348854065,
+    "bbox": [
+      215.48989868164062,
+      17.37435531616211,
+      438.6668701171875,
+      272.05853271484375
+    ],
+    "track_id": null,
+    "frame_number": 84601
+  },
+  {
+    "timestamp": "20260706_004730_398077",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004730_398077_id2783.jpg",
+    "confidence": 0.5961053371429443,
+    "bbox": [
+      211.87460327148438,
+      14.16000747680664,
+      438.1724548339844,
+      266.1625671386719
+    ],
+    "track_id": 2783,
+    "frame_number": 84631
+  },
+  {
+    "timestamp": "20260706_004732_660262",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004732_660262_idNone.jpg",
+    "confidence": 0.562120258808136,
+    "bbox": [
+      215.75653076171875,
+      3.771514892578125,
+      436.8834533691406,
+      248.9366912841797
+    ],
+    "track_id": null,
+    "frame_number": 84668
+  },
+  {
+    "timestamp": "20260706_004732_753419",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004732_753419_idNone.jpg",
+    "confidence": 0.5641589760780334,
+    "bbox": [
+      214.8894500732422,
+      2.140873432159424,
+      436.72564697265625,
+      248.2274627685547
+    ],
+    "track_id": null,
+    "frame_number": 84669
+  },
+  {
+    "timestamp": "20260706_004732_846558",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004732_846558_idNone.jpg",
+    "confidence": 0.5503491163253784,
+    "bbox": [
+      214.86114501953125,
+      2.2052438259124756,
+      436.3440856933594,
+      248.0701141357422
+    ],
+    "track_id": null,
+    "frame_number": 84670
+  },
+  {
+    "timestamp": "20260706_004732_942322",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004732_942322_idNone.jpg",
+    "confidence": 0.5857518315315247,
+    "bbox": [
+      215.83836364746094,
+      2.8338623046875,
+      435.0944519042969,
+      247.99400329589844
+    ],
+    "track_id": null,
+    "frame_number": 84671
+  },
+  {
+    "timestamp": "20260706_004733_032084",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004733_032084_idNone.jpg",
+    "confidence": 0.6090624332427979,
+    "bbox": [
+      216.26504516601562,
+      2.5156948566436768,
+      435.55059814453125,
+      248.16542053222656
+    ],
+    "track_id": null,
+    "frame_number": 84672
+  },
+  {
+    "timestamp": "20260706_004733_131757",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004733_131757_idNone.jpg",
+    "confidence": 0.5867208242416382,
+    "bbox": [
+      216.22454833984375,
+      1.8602207899093628,
+      436.7383728027344,
+      249.47914123535156
+    ],
+    "track_id": null,
+    "frame_number": 84673
+  },
+  {
+    "timestamp": "20260706_004733_225486",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004733_225486_idNone.jpg",
+    "confidence": 0.5982493758201599,
+    "bbox": [
+      217.55166625976562,
+      2.5085012912750244,
+      436.2579345703125,
+      247.6933135986328
+    ],
+    "track_id": null,
+    "frame_number": 84674
+  },
+  {
+    "timestamp": "20260706_004733_312126",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004733_312126_idNone.jpg",
+    "confidence": 0.5799250602722168,
+    "bbox": [
+      217.8136749267578,
+      2.5117056369781494,
+      437.1157531738281,
+      247.00650024414062
+    ],
+    "track_id": null,
+    "frame_number": 84675
+  },
+  {
+    "timestamp": "20260706_004733_408359",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004733_408359_idNone.jpg",
+    "confidence": 0.5803089141845703,
+    "bbox": [
+      218.1162872314453,
+      2.8714208602905273,
+      437.5017395019531,
+      247.6609649658203
+    ],
+    "track_id": null,
+    "frame_number": 84676
+  },
+  {
+    "timestamp": "20260706_004733_500634",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004733_500634_idNone.jpg",
+    "confidence": 0.588972270488739,
+    "bbox": [
+      218.83065795898438,
+      3.9147732257843018,
+      436.8305969238281,
+      246.16294860839844
+    ],
+    "track_id": null,
+    "frame_number": 84677
+  },
+  {
+    "timestamp": "20260706_004733_595846",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004733_595846_idNone.jpg",
+    "confidence": 0.5446619391441345,
+    "bbox": [
+      218.63046264648438,
+      4.7503662109375,
+      437.61920166015625,
+      246.2555389404297
+    ],
+    "track_id": null,
+    "frame_number": 84678
+  },
+  {
+    "timestamp": "20260706_004733_685656",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004733_685656_idNone.jpg",
+    "confidence": 0.5125585198402405,
+    "bbox": [
+      218.0835418701172,
+      4.808894634246826,
+      437.9931335449219,
+      246.83042907714844
+    ],
+    "track_id": null,
+    "frame_number": 84679
+  },
+  {
+    "timestamp": "20260706_004734_200932",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004734_200932_idNone.jpg",
+    "confidence": 0.5068158507347107,
+    "bbox": [
+      216.42481994628906,
+      4.61578369140625,
+      437.6084899902344,
+      246.51991271972656
+    ],
+    "track_id": null,
+    "frame_number": 84686
+  },
+  {
+    "timestamp": "20260706_004734_421182",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004734_421182_idNone.jpg",
+    "confidence": 0.5145200490951538,
+    "bbox": [
+      215.1006622314453,
+      3.8749914169311523,
+      436.890869140625,
+      247.40365600585938
+    ],
+    "track_id": null,
+    "frame_number": 84688
+  },
+  {
+    "timestamp": "20260706_004734_535956",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004734_535956_idNone.jpg",
+    "confidence": 0.562180757522583,
+    "bbox": [
+      215.02520751953125,
+      4.5553154945373535,
+      435.84796142578125,
+      247.4627685546875
+    ],
+    "track_id": null,
+    "frame_number": 84689
+  },
+  {
+    "timestamp": "20260706_004734_649655",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004734_649655_idNone.jpg",
+    "confidence": 0.5468991994857788,
+    "bbox": [
+      214.19273376464844,
+      5.274396896362305,
+      435.27911376953125,
+      247.45828247070312
+    ],
+    "track_id": null,
+    "frame_number": 84690
+  },
+  {
+    "timestamp": "20260706_004734_739357",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004734_739357_idNone.jpg",
+    "confidence": 0.5308198928833008,
+    "bbox": [
+      213.8470001220703,
+      5.030190944671631,
+      435.10504150390625,
+      247.10113525390625
+    ],
+    "track_id": null,
+    "frame_number": 84691
+  },
+  {
+    "timestamp": "20260706_004735_014606",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004735_014606_idNone.jpg",
+    "confidence": 0.530689001083374,
+    "bbox": [
+      213.7836151123047,
+      3.9331490993499756,
+      435.311279296875,
+      248.58041381835938
+    ],
+    "track_id": null,
+    "frame_number": 84695
+  },
+  {
+    "timestamp": "20260706_004735_204323",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_004735_204323_idNone.jpg",
+    "confidence": 0.5518192648887634,
+    "bbox": [
+      215.8524932861328,
+      4.456656455993652,
+      435.818359375,
+      248.80650329589844
+    ],
+    "track_id": null,
+    "frame_number": 84697
+  },
+  {
+    "timestamp": "20260706_005628_327041",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_005628_327041_idNone.jpg",
+    "confidence": 0.553072988986969,
+    "bbox": [
+      929.943359375,
+      87.35870361328125,
+      985.7945556640625,
+      150.3387908935547
+    ],
+    "track_id": null,
+    "frame_number": 93484
+  },
+  {
+    "timestamp": "20260706_005628_418705",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_005628_418705_idNone.jpg",
+    "confidence": 0.5489240288734436,
+    "bbox": [
+      927.6588745117188,
+      87.22994232177734,
+      987.6588745117188,
+      150.78424072265625
+    ],
+    "track_id": null,
+    "frame_number": 93485
+  },
+  {
+    "timestamp": "20260706_005628_516404",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_005628_516404_idNone.jpg",
+    "confidence": 0.6662786602973938,
+    "bbox": [
+      931.4578857421875,
+      87.67803192138672,
+      987.2325439453125,
+      149.23068237304688
+    ],
+    "track_id": null,
+    "frame_number": 93486
+  },
+  {
+    "timestamp": "20260706_010410_984344",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_010410_984344_idNone.jpg",
+    "confidence": 0.601121187210083,
+    "bbox": [
+      1074.77734375,
+      21.707508087158203,
+      1138.0052490234375,
+      85.67495727539062
+    ],
+    "track_id": null,
+    "frame_number": 101847
+  },
+  {
+    "timestamp": "20260706_010411_094511",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_010411_094511_idNone.jpg",
+    "confidence": 0.597448468208313,
+    "bbox": [
+      1074.880859375,
+      21.324920654296875,
+      1138.9901123046875,
+      85.16004180908203
+    ],
+    "track_id": null,
+    "frame_number": 101848
+  },
+  {
+    "timestamp": "20260706_010411_191158",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_010411_191158_idNone.jpg",
+    "confidence": 0.5977292060852051,
+    "bbox": [
+      1074.9654541015625,
+      21.392961502075195,
+      1138.85498046875,
+      84.9132308959961
+    ],
+    "track_id": null,
+    "frame_number": 101849
+  },
+  {
+    "timestamp": "20260706_010412_317399",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_010412_317399_idNone.jpg",
+    "confidence": 0.5339673161506653,
+    "bbox": [
+      439.9034118652344,
+      16.540525436401367,
+      486.5550231933594,
+      65.13496398925781
+    ],
+    "track_id": null,
+    "frame_number": 101864
+  },
+  {
+    "timestamp": "20260706_010413_118940",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_010413_118940_idNone.jpg",
+    "confidence": 0.532802939414978,
+    "bbox": [
+      970.5339965820312,
+      25.490232467651367,
+      1025.16064453125,
+      81.35160064697266
+    ],
+    "track_id": null,
+    "frame_number": 101874
+  },
+  {
+    "timestamp": "20260706_010413_216585",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_010413_216585_idNone.jpg",
+    "confidence": 0.5117695927619934,
+    "bbox": [
+      969.9091796875,
+      24.9317684173584,
+      1025.396728515625,
+      81.46175384521484
+    ],
+    "track_id": null,
+    "frame_number": 101875
+  },
+  {
+    "timestamp": "20260706_010413_315719",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_010413_315719_idNone.jpg",
+    "confidence": 0.5139773488044739,
+    "bbox": [
+      968.86181640625,
+      24.029268264770508,
+      1025.5093994140625,
+      81.80458068847656
+    ],
+    "track_id": null,
+    "frame_number": 101876
+  },
+  {
+    "timestamp": "20260706_011749_724696",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_011749_724696_idNone.jpg",
+    "confidence": 0.7419255375862122,
+    "bbox": [
+      1135.9097900390625,
+      111.06353759765625,
+      1268.17333984375,
+      247.62417602539062
+    ],
+    "track_id": null,
+    "frame_number": 86
+  },
+  {
+    "timestamp": "20260706_012031_893782",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012031_893782_idNone.jpg",
+    "confidence": 0.7527101039886475,
+    "bbox": [
+      1056.4322509765625,
+      225.71319580078125,
+      1242.303466796875,
+      406.3784484863281
+    ],
+    "track_id": null,
+    "frame_number": 852
+  },
+  {
+    "timestamp": "20260706_012032_146319",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012032_146319_idNone.jpg",
+    "confidence": 0.8219354748725891,
+    "bbox": [
+      980.742919921875,
+      238.21617126464844,
+      1176.9140625,
+      453.25946044921875
+    ],
+    "track_id": null,
+    "frame_number": 853
+  },
+  {
+    "timestamp": "20260706_012032_358150",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012032_358150_idNone.jpg",
+    "confidence": 0.8244674205780029,
+    "bbox": [
+      893.968505859375,
+      260.23541259765625,
+      1080.505859375,
+      464.3138122558594
+    ],
+    "track_id": null,
+    "frame_number": 854
+  },
+  {
+    "timestamp": "20260706_012033_232538",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012033_232538_idNone.jpg",
+    "confidence": 0.7214455008506775,
+    "bbox": [
+      744.1148071289062,
+      298.6342468261719,
+      822.2733154296875,
+      381.59271240234375
+    ],
+    "track_id": null,
+    "frame_number": 858
+  },
+  {
+    "timestamp": "20260706_012033_464057",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012033_464057_idNone.jpg",
+    "confidence": 0.7437564134597778,
+    "bbox": [
+      737.3146362304688,
+      325.0758056640625,
+      830.3304443359375,
+      422.0727233886719
+    ],
+    "track_id": null,
+    "frame_number": 859
+  },
+  {
+    "timestamp": "20260706_012033_694666",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012033_694666_idNone.jpg",
+    "confidence": 0.7918122410774231,
+    "bbox": [
+      690.3860473632812,
+      328.880615234375,
+      813.1819458007812,
+      454.1361999511719
+    ],
+    "track_id": null,
+    "frame_number": 860
+  },
+  {
+    "timestamp": "20260706_012033_921632",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012033_921632_idNone.jpg",
+    "confidence": 0.7630201578140259,
+    "bbox": [
+      556.0910034179688,
+      347.79150390625,
+      711.245849609375,
+      507.26214599609375
+    ],
+    "track_id": null,
+    "frame_number": 861
+  },
+  {
+    "timestamp": "20260706_012034_162145",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012034_162145_idNone.jpg",
+    "confidence": 0.5645194053649902,
+    "bbox": [
+      504.12249755859375,
+      352.7924499511719,
+      697.8435668945312,
+      532.980712890625
+    ],
+    "track_id": null,
+    "frame_number": 862
+  },
+  {
+    "timestamp": "20260706_012207_070007",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012207_070007_idNone.jpg",
+    "confidence": 0.5798346996307373,
+    "bbox": [
+      203.69119262695312,
+      585.5388793945312,
+      252.64845275878906,
+      643.8466186523438
+    ],
+    "track_id": null,
+    "frame_number": 1297
+  },
+  {
+    "timestamp": "20260706_012207_317518",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012207_317518_idNone.jpg",
+    "confidence": 0.6058698892593384,
+    "bbox": [
+      256.48114013671875,
+      582.503173828125,
+      303.5137939453125,
+      642.9330444335938
+    ],
+    "track_id": null,
+    "frame_number": 1298
+  },
+  {
+    "timestamp": "20260706_012427_222654",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012427_222654_idNone.jpg",
+    "confidence": 0.7176065444946289,
+    "bbox": [
+      912.9579467773438,
+      307.4784851074219,
+      1083.9652099609375,
+      502.19537353515625
+    ],
+    "track_id": null,
+    "frame_number": 1951
+  },
+  {
+    "timestamp": "20260706_012427_422108",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012427_422108_idNone.jpg",
+    "confidence": 0.5917479991912842,
+    "bbox": [
+      713.6146850585938,
+      286.796630859375,
+      883.36181640625,
+      496.34149169921875
+    ],
+    "track_id": null,
+    "frame_number": 1952
+  },
+  {
+    "timestamp": "20260706_012427_640100",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012427_640100_idNone.jpg",
+    "confidence": 0.6866832971572876,
+    "bbox": [
+      521.6526489257812,
+      275.92626953125,
+      713.1591796875,
+      507.32415771484375
+    ],
+    "track_id": null,
+    "frame_number": 1953
+  },
+  {
+    "timestamp": "20260706_012427_844554",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012427_844554_idNone.jpg",
+    "confidence": 0.5814623236656189,
+    "bbox": [
+      494.43896484375,
+      259.644287109375,
+      688.380615234375,
+      468.204345703125
+    ],
+    "track_id": null,
+    "frame_number": 1954
+  },
+  {
+    "timestamp": "20260706_012730_875378",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012730_875378_idNone.jpg",
+    "confidence": 0.5919296741485596,
+    "bbox": [
+      217.10610961914062,
+      19.22252082824707,
+      439.0752258300781,
+      270.8052673339844
+    ],
+    "track_id": null,
+    "frame_number": 2820
+  },
+  {
+    "timestamp": "20260706_012731_524674",
+    "frame_path": "C:/Users/User/Downloads/violations_screenshots\\violation_20260706_012731_524674_idNone.jpg",
+    "confidence": 0.5468991994857788,
+    "bbox": [
+      214.19273376464844,
+      5.274396896362305,
+      435.27911376953125,
+      247.45828247070312
+    ],
+    "track_id": null,
+    "frame_number": 2823
+  }
+]
